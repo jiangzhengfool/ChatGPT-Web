@@ -170,10 +170,8 @@ function _Home() {
       >
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>
-            <a href="https://mp.weixin.qq.com/s/VKjWTDqHCQnnbmQMu07iDA">
-              甄宝玉的读书笔记
-            </a>
-          </div>
+            <a href="https://mp.weixin.qq.com/s/VKjWTDqHCQnnbmQMu07iDA">甄宝玉的读书笔记</a>
+            </div>
           <div className={styles["sidebar-sub-title"]}>
             Build your own AI assistant.
           </div>
